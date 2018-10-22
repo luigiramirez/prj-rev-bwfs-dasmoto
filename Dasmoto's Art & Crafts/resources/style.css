@@ -20,4 +20,6 @@ h1{background-image:("./resources/images/background.jpeg");
   font-weight: bold;
   color: blue;
 }
-h2 #frames{background-color: lightcoral;}
+#frames{background-color: lightcoral;}
+
+#paint{background-color: skyblue;}
